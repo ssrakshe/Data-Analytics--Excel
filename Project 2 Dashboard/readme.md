@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b1ca1a5a-ba1a-4c8d-8c0c-fc54ccd02d1b)### Project 2 Analysis
+### Project 2 Analysis
+
 # Introduction
 As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
